@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World first eclipse!" );
         System.out.println( "second change from eclipse!" );
+        System.out.println( "edited from github/other develper!" );
     }
 }
